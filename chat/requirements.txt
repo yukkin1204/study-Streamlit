@@ -1,3 +1,4 @@
 pykakasi
+torch
 transformers
 sacremoses
