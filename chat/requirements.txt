@@ -1,4 +1,5 @@
 pykakasi
+sentencepiece
 torch
 transformers
 sacremoses
